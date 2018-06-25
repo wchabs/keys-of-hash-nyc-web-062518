@@ -8,4 +8,5 @@ class Hash
       end
     end
   end
+  array_matching_keys
 end
