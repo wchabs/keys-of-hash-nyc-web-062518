@@ -7,6 +7,6 @@ class Hash
         array_matching_keys << self.key(value_lookup)
       end
     end
+    array_matching_keys
   end
-  array_matching_keys
 end
