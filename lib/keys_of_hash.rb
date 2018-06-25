@@ -4,6 +4,6 @@ class Hash
     
     arguments.each do |value_lookup|
       if self.values.include?(value_lookup)
-        array_matching_keys << 
+        array_matching_keys << sef.index(value_lookup)
   end
 end
